@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.npy
+*.pkl
+*.db
+.env
+chromadb/
+portfolio_work_context.md
